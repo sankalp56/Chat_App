@@ -1,0 +1,21 @@
+TO Do:
+
+    Create NPM Project
+
+    Create Index, CSS,JS files
+
+    Install dependencies, express, nodemon(dev dep)  (npm i express, npm i nodemon -D)
+
+    Create express server(server.js)
+
+    --Frontend part
+
+    Install socket.io ,Setup socket.io in server.js and client client.js
+
+    Client send message logic in client.js
+
+    receive message on server and broadcast to all clients
+
+
+    receive message on client and display it , scroll to bottom etc...
+

@@ -1,0 +1,146 @@
+# Xcode
+.DS_Store
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+
+# Swift Package Manager
+.build/
+DerivedData/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# IDEs
+.idea/
+*.swp
+.vscode/
+.vscode/
+
+# macOS
+*.DS_Store
+
+# Xcode
+*.xcuserdatad
+
+# Android
+.gradle/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+/vendor/bundle
+/doc/api/
+/doc/app/
+*.seed
+*.log
+*.pot
+*.pyc
+*.swp
+/.*.swp
+/*/spec/tmp/
+log/*.log
+!/log/.keep
+tmp/
+*.tmproj
+*.podspec
+/public/system/*
+/coverage/
+.yardoc/
+._*
+.DS_Store
+.rbenv-version
+.rbenv-gemsets
+.rvmrc
+.ruby-version
+.ruby-gemset
+.vagrant/
+
+# PHP Composer
+vendor/
+composer.phar
+composer.lock
+
+# Laravel
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Jekyll
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.env.*
+
+# Hugo
+/public/
+/resources/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+# -----------------------
+node_modules/
+jspm_packages/
+
+# End of standard gitignore
